@@ -52,13 +52,13 @@ CRUD completo em Python com manipulação de arquivos JSON. Desenvolvido como at
     (https://www.youtube.com/watch?v=nx0vARKFBs8)
   
 - **OBR (Olimpíada Brasileira de Robótica – 2019)** – Team Leader  
-  Classificação para a fase estadual, desenvolvimento em equipe de montagem e programação de robôs.
+Classificação para a fase estadual, desenvolvimento em equipe de montagem e programação de robôs.
 
 - **First Lego League (2018–2020)** – Team Leader  
-  Classificação para a fase estadual em três edições consecutivas, .
+Classificação para a fase estadual em três edições consecutivas, .
 
 - **Warlock** – assembly and programming
-  Conquista de 2° lugar, competição de robôs nas modalidades de futebol e sumô.
+Conquista de 2° lugar, competição de robôs nas modalidades de futebol e sumô.
 
 ---
 
