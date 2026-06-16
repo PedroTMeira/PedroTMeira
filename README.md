@@ -57,7 +57,7 @@ Classificação para a fase estadual, desenvolvimento em equipe de montagem e pr
 - **First Lego League (2018–2020)** – Team Leader  
 Classificação para a fase estadual em três edições consecutivas, .
 
-- **Warlock** – assembly and programming
+- **Warlock** – assembly and programming  
 Conquista de 2° lugar, competição de robôs nas modalidades de futebol e sumô.
 
 ---
