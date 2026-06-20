@@ -88,6 +88,7 @@ Conquista de 2° lugar, competição de robôs nas modalidades de futebol e sum�
 - **E-mail:** pedro.meiraght@gmail.com
 - **LinkedIn:** www.linkedin.com/in/pedro-t-meira-70ba25206/
 - **GitHub:** Você já está aqui! 😄
+- **Whatsapp:** 41 9 8713-6126
 
 ---
 
