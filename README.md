@@ -35,13 +35,13 @@ Minhas principais áreas de interesse incluem:
 
 Aqui estão alguns dos projetos que desenvolvi para consolidar meus conhecimentos:
 
-### [Sistema de Gerenciamento de Loja de Vinhos](https://github.com/PedroTMeira/Estudos-em-My-SQL)
+### [Sistema de Gerenciamento de Loja de Vinhos](https://github.com/PedroTMeira/Estudos-em-My-SQL) - projeto de faculdade
 Projeto de banco de dados relacional desenvolvido para a disciplina de Banco de Dados. Inclui modelagem de regiões, vinícolas e vinhos, com consultas JOIN e controle de acesso com permissões restritas.
 
-### [Sistema de Financiamento de Imóveis (Java)](https://github.com/PedroTMeira/Estudos-em-Java)
+### [Sistema de Financiamento de Imóveis (Java)](https://github.com/PedroTMeira/Estudos-em-Java) - projeto de faculdade
 Sistema em Java com POO para simular financiamentos de Casas, Apartamentos e Terrenos. Demonstra herança, polimorfismo, tratamento de exceções personalizadas e persistência em arquivos (texto e serialização).
 
-### [Sistema de Cadastro de Filmes (Python)](https://github.com/PedroTMeira/Estudos-em-Python)
+### [Sistema de Cadastro de Filmes (Python)](https://github.com/PedroTMeira/Estudos-em-Python) - projeto de faculdade
 CRUD completo em Python com manipulação de arquivos JSON. Desenvolvido como atividade acadêmica, aplicando lógica de programação, funções e estruturas de dados.
 
 ---
