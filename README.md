@@ -13,6 +13,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **PUCPR** (previs
 Minhas principais áreas de interesse incluem:
 - **Python** e automação
 - **Java** e Programação Orientada a Objetos
+- **Desenvolvimento Web** com Javascript, PHP, CSS e HTML
 - **Banco de Dados** (MySQL)
 - **Lógica de Programação** e Estruturas de Dados
 - **Inteligência Artificial** (em estudo)
@@ -23,9 +24,9 @@ Minhas principais áreas de interesse incluem:
 
 | Categoria | Tecnologias |
 |-----------|-------------|
-| **Linguagens** | Python (Intermediário), Java (Intermediário) |
+| **Linguagens** | Python (Intermediário), Java (Intermediário), Javascript (aprendendo), PHP (aprendendo), CSS e HTML |
 | **Banco de Dados** | MySQL (Modelagem, Consultas, Joins, CRUD) |
-| **Ferramentas** | Git, GitHub, Pacote Office Avançado |
+| **Ferramentas** | BOOTSTRAP, Git, GitHub, Pacote Office Avançado |
 | **Infraestrutura** | Hardware, Fundamentos de TI |
 
 ---
