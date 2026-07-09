@@ -37,6 +37,7 @@ Aqui estão alguns dos projetos que desenvolvi para consolidar meus conhecimento
 
 ### [RPG Avalônia](https://github.com/PedroTMeira/RPG-Avalonia) - Projeto pessoal
 Sistema e site autoral referente a um projeto de mais de 3 anos de um RPG de mesa.
+Site: https://rpgavalonia.wuaze.com
 
 ### [Sistema de Gerenciamento de Loja de Vinhos](https://github.com/PedroTMeira/Estudos-em-My-SQL) - Projeto acadêmico
 Projeto de banco de dados relacional desenvolvido para a disciplina de Banco de Dados. Inclui modelagem de regiões, vinícolas e vinhos, com consultas JOIN e controle de acesso com permissões restritas.
