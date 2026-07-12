@@ -11,12 +11,12 @@
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na **PUCPR** (previsão de conclusão: 2027) e estou em transição de carreira para a área de **Desenvolvimento de Software**. Tenho 23 anos, sou apaixonado por tecnologia e busco uma oportunidade de estágio ou posição júnior onde possa aprender, contribuir e crescer.
 
 Minhas principais áreas de interesse incluem:
-- **Python** e automação
-- **Java** e Programação Orientada a Objetos
-- **Desenvolvimento Web** com Javascript, PHP, CSS e HTML
-- **Banco de Dados** (MySQL)
-- **Lógica de Programação** e Estruturas de Dados
-- **Inteligência Artificial** (em estudo)
+- **Python** e automação;
+- **Java** e Programação Orientada a Objetos;
+- **Desenvolvimento Web** com Javascript, PHP, CSS e HTML;
+- **Banco de Dados** (MySQL);
+- **Lógica de Programação** e Estruturas de Dados;
+- **Inteligência Artificial** (em estudo).
 
 ---
 
